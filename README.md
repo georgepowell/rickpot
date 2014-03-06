@@ -1,4 +1,4 @@
 rickpot
 =======
 
-Chome app to turn 1/100 links into a rick roll
+Install me on your friend's laptops in secret and watch the hilarity unfold... Slowly. Or install me on your own machine to make your day's a little more exciting.
